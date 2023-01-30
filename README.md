@@ -25,13 +25,6 @@
 > figma : https://www.figma.com/file/zDxduSGMj8QbVyKRWfuUov/%EA%B8%88%EC%97%B0%EC%95%B1?node-id=0%3A1
 <br>
 
-# Description
-
-- 금연 동기 부여 웹 앱
-- Node.js(express, ejs)를 이용해서 구현함
-- 클라우드 타입을 통해 배포함
-<br> 
-
 # Stack
 
 <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"><img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=Css3&logoColor=white"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">
@@ -55,14 +48,6 @@
 ![화면_캡처_2023-01-09_165431](https://user-images.githubusercontent.com/103430498/211432717-74ccbc91-0f07-4abd-8fba-7d24654256f9.png)
 <br>
 
-
-## Team
-
-- [김민수](https://github.com/chunjaeilu) : 지식 + , 변화 단계, 지도
-- [김명아](https://github.com/myeongakim7) : 달력, 달력 메모장
-- [안정원](https://github.com/geniunahn) : 금단증상 극복, 업적, 채팅
-- [유동균](https://github.com/ryudg) : 메인 페이지, 사용자 정보 입력 페이지
-- [최정호](https://github.com/goodcodemakers) : 내 정보, 설정(데이터 초기화,언어 변경, 테마 변경)
 
 ## SEO optimization
 
